@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(218, 185, 2);
+    background-color: black;
+}
+
+body{
+    background-color: black;
+}
+table{
+    margin-top: 10%;
+    border-radius: 5%;
+    background-color: aliceblue;
+    box: shadow 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
